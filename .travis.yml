@@ -17,5 +17,5 @@ deploy:
   bucket_path: "frontend"
   on:
     branch: main
-  access_key_id: AKIAUXU45J6MDW3HN6RV
-  secret_access_key: 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
+  access_key_id: $access_key_id
+  secret_access_key: $secret_access_key
