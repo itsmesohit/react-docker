@@ -7,8 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Bolo Jai mata di
-          Jor se Bolo Jai mata Di
+          Hello World! This is a test for the CI/CD pipeline.
+          My name is Sohit Kushwaha. I am a Software Engineer.
           </p>
         <a
           className="App-link"
