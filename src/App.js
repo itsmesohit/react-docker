@@ -9,6 +9,7 @@ function App() {
         <p>
           Hello World! This is a test for the CI/CD pipeline.
           My name is Sohit Kushwaha. I am a Software Engineer.
+          New branch created for feature branch.
           </p>
         <a
           className="App-link"
